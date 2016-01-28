@@ -51,3 +51,19 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+*.pbxproj
+
+*.pbxproj
+
+*.pbxproj
+
+*.m
+
+*.m
+
+*.m
+
+*.m
+
+*.pbxproj

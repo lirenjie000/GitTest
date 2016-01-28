@@ -7,68 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AC87C37E1C5A1DC70096FF63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C37D1C5A1DC70096FF63 /* main.m */; };
-		AC87C3811C5A1DC70096FF63 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3801C5A1DC70096FF63 /* AppDelegate.m */; };
-		AC87C3841C5A1DC70096FF63 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3831C5A1DC70096FF63 /* ViewController.m */; };
-		AC87C3871C5A1DC70096FF63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC87C3851C5A1DC70096FF63 /* Main.storyboard */; };
-		AC87C3891C5A1DC70096FF63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC87C3881C5A1DC70096FF63 /* Assets.xcassets */; };
-		AC87C38C1C5A1DC70096FF63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC87C38A1C5A1DC70096FF63 /* LaunchScreen.storyboard */; };
-		AC87C3971C5A1DC70096FF63 /* git__Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3961C5A1DC70096FF63 /* git__Tests.m */; };
-		AC87C3A21C5A1DC70096FF63 /* git__UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3A11C5A1DC70096FF63 /* git__UITests.m */; };
+		AC87C3BD1C5A21A60096FF63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3BC1C5A21A60096FF63 /* main.m */; };
+		AC87C3C01C5A21A60096FF63 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3BF1C5A21A60096FF63 /* AppDelegate.m */; };
+		AC87C3C31C5A21A60096FF63 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3C21C5A21A60096FF63 /* ViewController.m */; };
+		AC87C3C61C5A21A60096FF63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC87C3C41C5A21A60096FF63 /* Main.storyboard */; };
+		AC87C3C81C5A21A60096FF63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC87C3C71C5A21A60096FF63 /* Assets.xcassets */; };
+		AC87C3CB1C5A21A60096FF63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC87C3C91C5A21A60096FF63 /* LaunchScreen.storyboard */; };
+		AC87C3D61C5A21A60096FF63 /* git__Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3D51C5A21A60096FF63 /* git__Tests.m */; };
+		AC87C3E11C5A21A60096FF63 /* git__UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AC87C3E01C5A21A60096FF63 /* git__UITests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		AC87C3931C5A1DC70096FF63 /* PBXContainerItemProxy */ = {
+		AC87C3D21C5A21A60096FF63 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = AC87C3711C5A1DC70096FF63 /* Project object */;
+			containerPortal = AC87C3B01C5A21A60096FF63 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = AC87C3781C5A1DC70096FF63;
+			remoteGlobalIDString = AC87C3B71C5A21A60096FF63;
 			remoteInfo = "git测试";
 		};
-		AC87C39E1C5A1DC70096FF63 /* PBXContainerItemProxy */ = {
+		AC87C3DD1C5A21A60096FF63 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = AC87C3711C5A1DC70096FF63 /* Project object */;
+			containerPortal = AC87C3B01C5A21A60096FF63 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = AC87C3781C5A1DC70096FF63;
+			remoteGlobalIDString = AC87C3B71C5A21A60096FF63;
 			remoteInfo = "git测试";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		AC87C3791C5A1DC70096FF63 /* git测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "git测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AC87C37D1C5A1DC70096FF63 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AC87C37F1C5A1DC70096FF63 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		AC87C3801C5A1DC70096FF63 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AC87C3821C5A1DC70096FF63 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AC87C3831C5A1DC70096FF63 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		AC87C3861C5A1DC70096FF63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AC87C3881C5A1DC70096FF63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		AC87C38B1C5A1DC70096FF63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		AC87C38D1C5A1DC70096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AC87C3921C5A1DC70096FF63 /* git测试Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git测试Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AC87C3961C5A1DC70096FF63 /* git__Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git__Tests.m; sourceTree = "<group>"; };
-		AC87C3981C5A1DC70096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AC87C39D1C5A1DC70096FF63 /* git测试UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git测试UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AC87C3A11C5A1DC70096FF63 /* git__UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git__UITests.m; sourceTree = "<group>"; };
-		AC87C3A31C5A1DC70096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC87C3B81C5A21A60096FF63 /* git测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "git测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC87C3BC1C5A21A60096FF63 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AC87C3BE1C5A21A60096FF63 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AC87C3BF1C5A21A60096FF63 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AC87C3C11C5A21A60096FF63 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		AC87C3C21C5A21A60096FF63 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AC87C3C51C5A21A60096FF63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AC87C3C71C5A21A60096FF63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AC87C3CA1C5A21A60096FF63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AC87C3CC1C5A21A60096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC87C3D11C5A21A60096FF63 /* git测试Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git测试Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC87C3D51C5A21A60096FF63 /* git__Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git__Tests.m; sourceTree = "<group>"; };
+		AC87C3D71C5A21A60096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC87C3DC1C5A21A60096FF63 /* git测试UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git测试UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC87C3E01C5A21A60096FF63 /* git__UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git__UITests.m; sourceTree = "<group>"; };
+		AC87C3E21C5A21A60096FF63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		AC87C3761C5A1DC70096FF63 /* Frameworks */ = {
+		AC87C3B51C5A21A60096FF63 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C38F1C5A1DC70096FF63 /* Frameworks */ = {
+		AC87C3CE1C5A21A60096FF63 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C39A1C5A1DC70096FF63 /* Frameworks */ = {
+		AC87C3D91C5A21A60096FF63 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,64 +78,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AC87C3701C5A1DC70096FF63 = {
+		AC87C3AF1C5A21A60096FF63 = {
 			isa = PBXGroup;
 			children = (
-				AC87C37B1C5A1DC70096FF63 /* git测试 */,
-				AC87C3951C5A1DC70096FF63 /* git测试Tests */,
-				AC87C3A01C5A1DC70096FF63 /* git测试UITests */,
-				AC87C37A1C5A1DC70096FF63 /* Products */,
+				AC87C3BA1C5A21A60096FF63 /* git测试 */,
+				AC87C3D41C5A21A60096FF63 /* git测试Tests */,
+				AC87C3DF1C5A21A60096FF63 /* git测试UITests */,
+				AC87C3B91C5A21A60096FF63 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		AC87C37A1C5A1DC70096FF63 /* Products */ = {
+		AC87C3B91C5A21A60096FF63 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AC87C3791C5A1DC70096FF63 /* git测试.app */,
-				AC87C3921C5A1DC70096FF63 /* git测试Tests.xctest */,
-				AC87C39D1C5A1DC70096FF63 /* git测试UITests.xctest */,
+				AC87C3B81C5A21A60096FF63 /* git测试.app */,
+				AC87C3D11C5A21A60096FF63 /* git测试Tests.xctest */,
+				AC87C3DC1C5A21A60096FF63 /* git测试UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AC87C37B1C5A1DC70096FF63 /* git测试 */ = {
+		AC87C3BA1C5A21A60096FF63 /* git测试 */ = {
 			isa = PBXGroup;
 			children = (
-				AC87C37F1C5A1DC70096FF63 /* AppDelegate.h */,
-				AC87C3801C5A1DC70096FF63 /* AppDelegate.m */,
-				AC87C3821C5A1DC70096FF63 /* ViewController.h */,
-				AC87C3831C5A1DC70096FF63 /* ViewController.m */,
-				AC87C3851C5A1DC70096FF63 /* Main.storyboard */,
-				AC87C3881C5A1DC70096FF63 /* Assets.xcassets */,
-				AC87C38A1C5A1DC70096FF63 /* LaunchScreen.storyboard */,
-				AC87C38D1C5A1DC70096FF63 /* Info.plist */,
-				AC87C37C1C5A1DC70096FF63 /* Supporting Files */,
+				AC87C3BE1C5A21A60096FF63 /* AppDelegate.h */,
+				AC87C3BF1C5A21A60096FF63 /* AppDelegate.m */,
+				AC87C3C11C5A21A60096FF63 /* ViewController.h */,
+				AC87C3C21C5A21A60096FF63 /* ViewController.m */,
+				AC87C3C41C5A21A60096FF63 /* Main.storyboard */,
+				AC87C3C71C5A21A60096FF63 /* Assets.xcassets */,
+				AC87C3C91C5A21A60096FF63 /* LaunchScreen.storyboard */,
+				AC87C3CC1C5A21A60096FF63 /* Info.plist */,
+				AC87C3BB1C5A21A60096FF63 /* Supporting Files */,
 			);
 			path = "git测试";
 			sourceTree = "<group>";
 		};
-		AC87C37C1C5A1DC70096FF63 /* Supporting Files */ = {
+		AC87C3BB1C5A21A60096FF63 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AC87C37D1C5A1DC70096FF63 /* main.m */,
+				AC87C3BC1C5A21A60096FF63 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		AC87C3951C5A1DC70096FF63 /* git测试Tests */ = {
+		AC87C3D41C5A21A60096FF63 /* git测试Tests */ = {
 			isa = PBXGroup;
 			children = (
-				AC87C3961C5A1DC70096FF63 /* git__Tests.m */,
-				AC87C3981C5A1DC70096FF63 /* Info.plist */,
+				AC87C3D51C5A21A60096FF63 /* git__Tests.m */,
+				AC87C3D71C5A21A60096FF63 /* Info.plist */,
 			);
 			path = "git测试Tests";
 			sourceTree = "<group>";
 		};
-		AC87C3A01C5A1DC70096FF63 /* git测试UITests */ = {
+		AC87C3DF1C5A21A60096FF63 /* git测试UITests */ = {
 			isa = PBXGroup;
 			children = (
-				AC87C3A11C5A1DC70096FF63 /* git__UITests.m */,
-				AC87C3A31C5A1DC70096FF63 /* Info.plist */,
+				AC87C3E01C5A21A60096FF63 /* git__UITests.m */,
+				AC87C3E21C5A21A60096FF63 /* Info.plist */,
 			);
 			path = "git测试UITests";
 			sourceTree = "<group>";
@@ -143,13 +143,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AC87C3781C5A1DC70096FF63 /* git测试 */ = {
+		AC87C3B71C5A21A60096FF63 /* git测试 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC87C3A61C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试" */;
+			buildConfigurationList = AC87C3E51C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试" */;
 			buildPhases = (
-				AC87C3751C5A1DC70096FF63 /* Sources */,
-				AC87C3761C5A1DC70096FF63 /* Frameworks */,
-				AC87C3771C5A1DC70096FF63 /* Resources */,
+				AC87C3B41C5A21A60096FF63 /* Sources */,
+				AC87C3B51C5A21A60096FF63 /* Frameworks */,
+				AC87C3B61C5A21A60096FF63 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -157,68 +157,68 @@
 			);
 			name = "git测试";
 			productName = "git测试";
-			productReference = AC87C3791C5A1DC70096FF63 /* git测试.app */;
+			productReference = AC87C3B81C5A21A60096FF63 /* git测试.app */;
 			productType = "com.apple.product-type.application";
 		};
-		AC87C3911C5A1DC70096FF63 /* git测试Tests */ = {
+		AC87C3D01C5A21A60096FF63 /* git测试Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC87C3A91C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试Tests" */;
+			buildConfigurationList = AC87C3E81C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试Tests" */;
 			buildPhases = (
-				AC87C38E1C5A1DC70096FF63 /* Sources */,
-				AC87C38F1C5A1DC70096FF63 /* Frameworks */,
-				AC87C3901C5A1DC70096FF63 /* Resources */,
+				AC87C3CD1C5A21A60096FF63 /* Sources */,
+				AC87C3CE1C5A21A60096FF63 /* Frameworks */,
+				AC87C3CF1C5A21A60096FF63 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				AC87C3941C5A1DC70096FF63 /* PBXTargetDependency */,
+				AC87C3D31C5A21A60096FF63 /* PBXTargetDependency */,
 			);
 			name = "git测试Tests";
 			productName = "git测试Tests";
-			productReference = AC87C3921C5A1DC70096FF63 /* git测试Tests.xctest */;
+			productReference = AC87C3D11C5A21A60096FF63 /* git测试Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		AC87C39C1C5A1DC70096FF63 /* git测试UITests */ = {
+		AC87C3DB1C5A21A60096FF63 /* git测试UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC87C3AC1C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试UITests" */;
+			buildConfigurationList = AC87C3EB1C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试UITests" */;
 			buildPhases = (
-				AC87C3991C5A1DC70096FF63 /* Sources */,
-				AC87C39A1C5A1DC70096FF63 /* Frameworks */,
-				AC87C39B1C5A1DC70096FF63 /* Resources */,
+				AC87C3D81C5A21A60096FF63 /* Sources */,
+				AC87C3D91C5A21A60096FF63 /* Frameworks */,
+				AC87C3DA1C5A21A60096FF63 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				AC87C39F1C5A1DC70096FF63 /* PBXTargetDependency */,
+				AC87C3DE1C5A21A60096FF63 /* PBXTargetDependency */,
 			);
 			name = "git测试UITests";
 			productName = "git测试UITests";
-			productReference = AC87C39D1C5A1DC70096FF63 /* git测试UITests.xctest */;
+			productReference = AC87C3DC1C5A21A60096FF63 /* git测试UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		AC87C3711C5A1DC70096FF63 /* Project object */ = {
+		AC87C3B01C5A21A60096FF63 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "李人杰";
 				TargetAttributes = {
-					AC87C3781C5A1DC70096FF63 = {
+					AC87C3B71C5A21A60096FF63 = {
 						CreatedOnToolsVersion = 7.2;
 					};
-					AC87C3911C5A1DC70096FF63 = {
+					AC87C3D01C5A21A60096FF63 = {
 						CreatedOnToolsVersion = 7.2;
-						TestTargetID = AC87C3781C5A1DC70096FF63;
+						TestTargetID = AC87C3B71C5A21A60096FF63;
 					};
-					AC87C39C1C5A1DC70096FF63 = {
+					AC87C3DB1C5A21A60096FF63 = {
 						CreatedOnToolsVersion = 7.2;
-						TestTargetID = AC87C3781C5A1DC70096FF63;
+						TestTargetID = AC87C3B71C5A21A60096FF63;
 					};
 				};
 			};
-			buildConfigurationList = AC87C3741C5A1DC70096FF63 /* Build configuration list for PBXProject "git测试" */;
+			buildConfigurationList = AC87C3B31C5A21A60096FF63 /* Build configuration list for PBXProject "git测试" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -226,37 +226,37 @@
 				en,
 				Base,
 			);
-			mainGroup = AC87C3701C5A1DC70096FF63;
-			productRefGroup = AC87C37A1C5A1DC70096FF63 /* Products */;
+			mainGroup = AC87C3AF1C5A21A60096FF63;
+			productRefGroup = AC87C3B91C5A21A60096FF63 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AC87C3781C5A1DC70096FF63 /* git测试 */,
-				AC87C3911C5A1DC70096FF63 /* git测试Tests */,
-				AC87C39C1C5A1DC70096FF63 /* git测试UITests */,
+				AC87C3B71C5A21A60096FF63 /* git测试 */,
+				AC87C3D01C5A21A60096FF63 /* git测试Tests */,
+				AC87C3DB1C5A21A60096FF63 /* git测试UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		AC87C3771C5A1DC70096FF63 /* Resources */ = {
+		AC87C3B61C5A21A60096FF63 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC87C38C1C5A1DC70096FF63 /* LaunchScreen.storyboard in Resources */,
-				AC87C3891C5A1DC70096FF63 /* Assets.xcassets in Resources */,
-				AC87C3871C5A1DC70096FF63 /* Main.storyboard in Resources */,
+				AC87C3CB1C5A21A60096FF63 /* LaunchScreen.storyboard in Resources */,
+				AC87C3C81C5A21A60096FF63 /* Assets.xcassets in Resources */,
+				AC87C3C61C5A21A60096FF63 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C3901C5A1DC70096FF63 /* Resources */ = {
+		AC87C3CF1C5A21A60096FF63 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C39B1C5A1DC70096FF63 /* Resources */ = {
+		AC87C3DA1C5A21A60096FF63 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -266,60 +266,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		AC87C3751C5A1DC70096FF63 /* Sources */ = {
+		AC87C3B41C5A21A60096FF63 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC87C3841C5A1DC70096FF63 /* ViewController.m in Sources */,
-				AC87C3811C5A1DC70096FF63 /* AppDelegate.m in Sources */,
-				AC87C37E1C5A1DC70096FF63 /* main.m in Sources */,
+				AC87C3C31C5A21A60096FF63 /* ViewController.m in Sources */,
+				AC87C3C01C5A21A60096FF63 /* AppDelegate.m in Sources */,
+				AC87C3BD1C5A21A60096FF63 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C38E1C5A1DC70096FF63 /* Sources */ = {
+		AC87C3CD1C5A21A60096FF63 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC87C3971C5A1DC70096FF63 /* git__Tests.m in Sources */,
+				AC87C3D61C5A21A60096FF63 /* git__Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC87C3991C5A1DC70096FF63 /* Sources */ = {
+		AC87C3D81C5A21A60096FF63 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC87C3A21C5A1DC70096FF63 /* git__UITests.m in Sources */,
+				AC87C3E11C5A21A60096FF63 /* git__UITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		AC87C3941C5A1DC70096FF63 /* PBXTargetDependency */ = {
+		AC87C3D31C5A21A60096FF63 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = AC87C3781C5A1DC70096FF63 /* git测试 */;
-			targetProxy = AC87C3931C5A1DC70096FF63 /* PBXContainerItemProxy */;
+			target = AC87C3B71C5A21A60096FF63 /* git测试 */;
+			targetProxy = AC87C3D21C5A21A60096FF63 /* PBXContainerItemProxy */;
 		};
-		AC87C39F1C5A1DC70096FF63 /* PBXTargetDependency */ = {
+		AC87C3DE1C5A21A60096FF63 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = AC87C3781C5A1DC70096FF63 /* git测试 */;
-			targetProxy = AC87C39E1C5A1DC70096FF63 /* PBXContainerItemProxy */;
+			target = AC87C3B71C5A21A60096FF63 /* git测试 */;
+			targetProxy = AC87C3DD1C5A21A60096FF63 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		AC87C3851C5A1DC70096FF63 /* Main.storyboard */ = {
+		AC87C3C41C5A21A60096FF63 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				AC87C3861C5A1DC70096FF63 /* Base */,
+				AC87C3C51C5A21A60096FF63 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		AC87C38A1C5A1DC70096FF63 /* LaunchScreen.storyboard */ = {
+		AC87C3C91C5A21A60096FF63 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				AC87C38B1C5A1DC70096FF63 /* Base */,
+				AC87C3CA1C5A21A60096FF63 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -327,7 +327,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		AC87C3A41C5A1DC70096FF63 /* Debug */ = {
+		AC87C3E31C5A21A60096FF63 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -370,7 +370,7 @@
 			};
 			name = Debug;
 		};
-		AC87C3A51C5A1DC70096FF63 /* Release */ = {
+		AC87C3E41C5A21A60096FF63 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -407,7 +407,7 @@
 			};
 			name = Release;
 		};
-		AC87C3A71C5A1DC70096FF63 /* Debug */ = {
+		AC87C3E61C5A21A60096FF63 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -418,7 +418,7 @@
 			};
 			name = Debug;
 		};
-		AC87C3A81C5A1DC70096FF63 /* Release */ = {
+		AC87C3E71C5A21A60096FF63 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -429,7 +429,7 @@
 			};
 			name = Release;
 		};
-		AC87C3AA1C5A1DC70096FF63 /* Debug */ = {
+		AC87C3E91C5A21A60096FF63 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -441,7 +441,7 @@
 			};
 			name = Debug;
 		};
-		AC87C3AB1C5A1DC70096FF63 /* Release */ = {
+		AC87C3EA1C5A21A60096FF63 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,7 +453,7 @@
 			};
 			name = Release;
 		};
-		AC87C3AD1C5A1DC70096FF63 /* Debug */ = {
+		AC87C3EC1C5A21A60096FF63 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = "git测试UITests/Info.plist";
@@ -465,7 +465,7 @@
 			};
 			name = Debug;
 		};
-		AC87C3AE1C5A1DC70096FF63 /* Release */ = {
+		AC87C3ED1C5A21A60096FF63 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = "git测试UITests/Info.plist";
@@ -480,40 +480,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AC87C3741C5A1DC70096FF63 /* Build configuration list for PBXProject "git测试" */ = {
+		AC87C3B31C5A21A60096FF63 /* Build configuration list for PBXProject "git测试" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AC87C3A41C5A1DC70096FF63 /* Debug */,
-				AC87C3A51C5A1DC70096FF63 /* Release */,
+				AC87C3E31C5A21A60096FF63 /* Debug */,
+				AC87C3E41C5A21A60096FF63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AC87C3A61C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试" */ = {
+		AC87C3E51C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AC87C3A71C5A1DC70096FF63 /* Debug */,
-				AC87C3A81C5A1DC70096FF63 /* Release */,
+				AC87C3E61C5A21A60096FF63 /* Debug */,
+				AC87C3E71C5A21A60096FF63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		AC87C3A91C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试Tests" */ = {
+		AC87C3E81C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AC87C3AA1C5A1DC70096FF63 /* Debug */,
-				AC87C3AB1C5A1DC70096FF63 /* Release */,
+				AC87C3E91C5A21A60096FF63 /* Debug */,
+				AC87C3EA1C5A21A60096FF63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		AC87C3AC1C5A1DC70096FF63 /* Build configuration list for PBXNativeTarget "git测试UITests" */ = {
+		AC87C3EB1C5A21A60096FF63 /* Build configuration list for PBXNativeTarget "git测试UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AC87C3AD1C5A1DC70096FF63 /* Debug */,
-				AC87C3AE1C5A1DC70096FF63 /* Release */,
+				AC87C3EC1C5A21A60096FF63 /* Debug */,
+				AC87C3ED1C5A21A60096FF63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = AC87C3711C5A1DC70096FF63 /* Project object */;
+	rootObject = AC87C3B01C5A21A60096FF63 /* Project object */;
 }

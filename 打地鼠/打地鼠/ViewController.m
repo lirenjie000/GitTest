@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  git测试
+//  打地鼠
 //
 //  Created by lirenjie on 16/1/28.
 //  Copyright © 2016年 李人杰. All rights reserved.
@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"打地鼠");
 }
 
 - (void)didReceiveMemoryWarning {
